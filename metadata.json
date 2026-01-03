@@ -1,0 +1,7 @@
+{
+  "name": "Aura Voice AI",
+  "description": "A high-performance conversational voice assistant powered by Gemini 2.5 Flash Native Audio API, featuring real-time visualizers and seamless transcriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
